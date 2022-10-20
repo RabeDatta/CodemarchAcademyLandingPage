@@ -66,7 +66,8 @@ textarea,
 input {
   width: 100%;
   font-weight: 400;
-  padding: 0.4em 0.8em;
+  /* padding: 0.4em 0.8em; */
+  padding: 0.7em 0.9em;
   border-radius: 5px;
   border: 1.2px solid #c4cae0;
   margin-top: 5px;
