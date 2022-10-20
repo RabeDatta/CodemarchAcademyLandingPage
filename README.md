@@ -1,3 +1,3 @@
 # CodemarchAcademy
 
-This project is part of codemarchAcademy's 30 days challenge
+This project is part of CodemarchAcademy's 30 days challenge
